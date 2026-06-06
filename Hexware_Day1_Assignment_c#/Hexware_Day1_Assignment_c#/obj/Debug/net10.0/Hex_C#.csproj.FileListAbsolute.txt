@@ -1,0 +1,14 @@
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\bin\Debug\net10.0\Hex_C#.exe
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\bin\Debug\net10.0\Hex_C#.deps.json
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\bin\Debug\net10.0\Hex_C#.runtimeconfig.json
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\bin\Debug\net10.0\Hex_C#.dll
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\bin\Debug\net10.0\Hex_C#.pdb
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\Hex_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\Hex_C#.AssemblyInfoInputs.cache
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\Hex_C#.AssemblyInfo.cs
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\Hex_C#.csproj.CoreCompileInputs.cache
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\Hex_C#.dll
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\refint\Hex_C#.dll
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\Hex_C#.pdb
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\Hex_C#.genruntimeconfig.cache
+C:\Users\sashi\source\repos\Hex_C#\Hex_C#\obj\Debug\net10.0\ref\Hex_C#.dll
