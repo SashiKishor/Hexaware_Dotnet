@@ -1,0 +1,14 @@
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\SmartCourier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\SmartCourier.AssemblyInfoInputs.cache
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\SmartCourier.AssemblyInfo.cs
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\SmartCourier.csproj.CoreCompileInputs.cache
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\bin\Debug\net10.0\SmartCourier.exe
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\bin\Debug\net10.0\SmartCourier.deps.json
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\bin\Debug\net10.0\SmartCourier.runtimeconfig.json
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\bin\Debug\net10.0\SmartCourier.dll
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\bin\Debug\net10.0\SmartCourier.pdb
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\SmartCourier.dll
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\refint\SmartCourier.dll
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\SmartCourier.pdb
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\SmartCourier.genruntimeconfig.cache
+C:\Users\sashi\source\repos\SmartCourier\SmartCourier\obj\Debug\net10.0\ref\SmartCourier.dll
