@@ -1,0 +1,14 @@
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\bin\Debug\net10.0\E-Commerce.exe
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\bin\Debug\net10.0\E-Commerce.deps.json
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\bin\Debug\net10.0\E-Commerce.runtimeconfig.json
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\bin\Debug\net10.0\E-Commerce.dll
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\bin\Debug\net10.0\E-Commerce.pdb
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\E-Commerce.AssemblyInfo.cs
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\E-Commerce.dll
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\refint\E-Commerce.dll
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\E-Commerce.pdb
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\E-Commerce.genruntimeconfig.cache
+C:\Users\sashi\source\repos\E-Commerce\E-Commerce\obj\Debug\net10.0\ref\E-Commerce.dll
